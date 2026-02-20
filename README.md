@@ -4,7 +4,7 @@ Hello World! 🌏
 
 I began my career transition from the Commercial/Sales area to the technology field in 2025, with the goal of entering the software development and programming area.
 
-I am currently a student of Systems Analysis and Development (ADS) at SENAC;
+I am currently a student of Systems Analysis and Development (ADS) at SENAC.
 I am also in the Piscine phase at the Software Engineering school 42 São Paulo.
 
 ✏️ I am focused on learning:
