@@ -16,7 +16,7 @@ I am also in the Piscine phase at the Software Engineering school 42 São Paulo.
 
 📝 I am studying and using the following tools:
 - Languages: C and Python;
-- Version control: GitHub;
+- Version control: Git and GitHub;
 - Development Environment: Linux, VS Code;
 
 With a clear objective of strengthening my programming foundation, developing real-world projects, and preparing myself for opportunities in the technology field.
